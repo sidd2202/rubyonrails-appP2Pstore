@@ -7,10 +7,13 @@ View repo [Link] https://github.com/sidd2202/rubyonrails-appP2Pstore
 Heroku deployment on link: [Link] https://glacial-stream-78657.herokuapp.com/ ( but its not working)
 
 # CONTENTS
- # Description 
- # Functionality and Features
- # Screenshots of the app's features
-
+  Description 
+  Functionality and Features
+  Screenshots of the app's features
+  TechStack
+  Design Process
+  Wireframes
+  Timeline to develop using Trello
 
 ## Description
 P2Pstore is made as a 2-sided marketplace wherein sellers/buyers are the same. with a single account consumers are able to purchase/sell. Just like AIRBnB, ebay etc <br/>
@@ -57,6 +60,39 @@ The customer is able to view the products but wont be able to edit/delete or mak
 
 # cart error page (was not able to fix due to some Active storage errors) 
 ![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/carterror.png)
+
+## TechStack
+ Ruby on Rails<br/>
+ HTML<br/>
+ SCSS and SASS for styling<br/>
+ Stripe for payment<br/>
+ Devise for users<br/>
+ Github to update commits<br/>
+ Trello for project management<br/>
+ Slack <br/>
+ CSS-bulma for styling<br/>
+ Heroku for deployment<br/>
+
+
+## Design Process
+ -> WHY P2P ?!? 
+Generally, the ecommerce websites usually offer a ONE-WAY marketplace except a few. For normal users, everyday users, this platform would give them the ability to sell their own products on a peer to peer market without a mediator. 
+As a customer he/she would be able to sell/buy from one account on P2Pstore. 
+Steps for developing P2PStore : 
+-> Design wireframes for how the website would look like homepage/showpage/ user sign in/signup pages etc. ]
+-> styling the website side by side. (unable to finish) 
+-> Start by using devise for authentication and registering users
+-> generate models for products using the scaffolding method. 
+-> Using builtin active storage for rails 5.2 to add image uploading capability
+-> Write methods for users to create/edit/delete their own products. 
+-> Write methods for cart control. 
+-> adding stripe for payment option. 
+
+## Wireframes 
+
+
+
+
 
 
 
