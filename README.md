@@ -26,7 +26,8 @@ Login/Signup/signin/account cancellation/forgot password features were added.
 The customer is able to view the products but wont be able to edit/delete or make changes /add to cart unless logged in. 
 
 
-## Screenshots of working parts.
+## Screenshots of working parts of the App. 
+
 # login page
 ![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/LoginPage.png)
 
@@ -51,7 +52,11 @@ The customer is able to view the products but wont be able to edit/delete or mak
 # homepage without signin
 ![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/homepage.png)
 
+# once user signsout brings the customer back to homepage ( can still view the products )
+![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/homepage.png)
 
+# cart error page (was not able to fix due to some Active storage errors) 
+![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/carterror.png)
 
 
 
