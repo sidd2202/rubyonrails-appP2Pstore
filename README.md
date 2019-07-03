@@ -7,9 +7,9 @@ View repo [Link] https://github.com/sidd2202/rubyonrails-appP2Pstore
 Heroku deployment on link: [Link] https://glacial-stream-78657.herokuapp.com/ ( but its not working)
 
 # CONTENTS
- #Description 
- #unctionality and Features
- #Screenshots of the app's features
+ # Description 
+ # Functionality and Features
+ # Screenshots of the app's features
 
 
 ## Description
@@ -26,4 +26,6 @@ Login/Signup/signin/account cancellation/forgot password features were added.
 The customer is able to view the products but wont be able to edit/delete or make changes /add to cart unless logged in. 
 
 
-
+## Screenshots of working parts.
+# login page
+![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/LoginPage.png)
