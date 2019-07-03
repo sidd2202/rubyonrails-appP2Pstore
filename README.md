@@ -29,3 +29,30 @@ The customer is able to view the products but wont be able to edit/delete or mak
 ## Screenshots of working parts.
 # login page
 ![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/LoginPage.png)
+
+# signup page with password/ password confirmation
+![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/signup.png)
+
+# account update or cancellation page
+![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/accountupdateorcancel.png)
+
+# adding product to cart successful message 
+![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/addedtocartconf.png)
+
+# adding items by logged in user for sale
+![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/sell.png)
+
+# product show page. 
+![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/show.png)
+
+# product update page - only for user who puts the item on sale. wont work if any other user tries to update 
+![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/productupdate.png)
+
+# homepage without signin
+![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/homepage.png)
+
+
+
+
+
+
