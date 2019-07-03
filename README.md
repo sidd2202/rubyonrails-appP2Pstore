@@ -96,8 +96,8 @@ Steps for developing P2PStore : <br/>
   
   ![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/screenshots/HOMEPAGEWIREFRAME.PNG)<br/>
   ![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/screenshots/SHOWPRODUCT.PNG)<br/>
-  ![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/screenshots/HOMEFORPHONE.PNG)<br/>
-  ![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/screenshots/SHOWPAGEPHONE.PNG)<br/>
+  ![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/screenshots/HOMEFORPHONE.png)<br/>
+  ![picture](https://github.com/sidd2202/rubyonrails-appP2Pstore/blob/master/screenshots/screenshots/SHOWPAGEPHONE.png)<br/>
   
 
 
