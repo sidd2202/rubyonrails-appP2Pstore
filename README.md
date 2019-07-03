@@ -78,19 +78,22 @@ The customer is able to view the products but wont be able to edit/delete or mak
  -> WHY P2P ?!? 
 Generally, the ecommerce websites usually offer a ONE-WAY marketplace except a few. For normal users, everyday users, this platform would give them the ability to sell their own products on a peer to peer market without a mediator. 
 As a customer he/she would be able to sell/buy from one account on P2Pstore. 
-Steps for developing P2PStore : 
-1 Design wireframes for how the website would look like homepage/showpage/ user sign in/signup pages etc. ]
-2 styling the website side by side. (unable to finish) 
-3 Start by using devise for authentication and registering users
-4 generate models for products using the scaffolding method. 
-5 Using builtin active storage for rails 5.2 to add image uploading capability
-6 Write methods for users to create/edit/delete their own products. 
-7 Write methods for cart control. 
-8 adding stripe for payment option. 
-9 Updating repo on git
-10 once finished, deploying site on heroku
+Steps for developing P2PStore : <br/>
+1 Design wireframes for how the website would look like homepage/showpage/ user sign in/signup pages etc. ]<br/>
+2 styling the website side by side. (unable to finish) <br/>
+3 Start by using devise for authentication and registering users<br/>
+4 generate models for products using the scaffolding method. <br/>
+5 Using builtin active storage for rails 5.2 to add image uploading capability <br/>
+6 Write methods for users to create/edit/delete their own products. <br/>
+7 Write methods for cart control. <br/>
+8 adding stripe for payment option. <br/>
+9 Updating repo on git<br/>
+10 once finished, deploying site on heroku<br/>
 
 ## Wireframes 
+
+# Screenshots of wireframes for the look of the website. 
+  
 
 
 
